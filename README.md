@@ -2,4 +2,4 @@
 
 #Testes Cucumber
 
-<img src="/Imagens/Image1">
+<img src="/Imagens/Image1.jpeg">
